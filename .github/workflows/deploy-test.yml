@@ -84,4 +84,4 @@ jobs:
       - name: 'Remove artifact'
         uses: geekyeggo/delete-artifact@v1
         with:
-          name: ${{ steps.artifact.outputs.filename }}
+          name: release-
