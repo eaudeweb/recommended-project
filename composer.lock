@@ -1311,12 +1311,12 @@
                     "role": "Maintainer"
                 },
                 {
-                    "name": "fethi.krout",
-                    "homepage": "https://www.drupal.org/user/3206765"
-                },
-                {
                     "name": "matio89",
                     "homepage": "https://www.drupal.org/user/2320090"
+                },
+                {
+                    "name": "Musa.thomas",
+                    "homepage": "https://www.drupal.org/user/1213824"
                 },
                 {
                     "name": "romainj",
@@ -1389,12 +1389,8 @@
                     "role": "Contributors"
                 },
                 {
-                    "name": "iamcarrico",
-                    "homepage": "https://www.drupal.org/user/1300542"
-                },
-                {
-                    "name": "mikeytown2",
-                    "homepage": "https://www.drupal.org/user/282446"
+                    "name": "NickDickinsonWilde",
+                    "homepage": "https://www.drupal.org/user/3094661"
                 },
                 {
                     "name": "rupl",
@@ -1403,6 +1399,10 @@
                 {
                     "name": "thalles",
                     "homepage": "https://www.drupal.org/user/3589086"
+                },
+                {
+                    "name": "Wim Leers",
+                    "homepage": "https://www.drupal.org/user/99777"
                 }
             ],
             "description": "Improved aggregation of CSS/JS files to speed up page load times.",
@@ -1623,10 +1623,6 @@
             ],
             "authors": [
                 {
-                    "name": "AaronChristian",
-                    "homepage": "https://www.drupal.org/user/445890"
-                },
-                {
                     "name": "mahmoud-zayed",
                     "homepage": "https://www.drupal.org/user/2947001"
                 }
@@ -1678,10 +1674,6 @@
                 "GPL-2.0+"
             ],
             "authors": [
-                {
-                    "name": "AaronChristian",
-                    "homepage": "https://www.drupal.org/user/445890"
-                },
                 {
                     "name": "mahmoud-zayed",
                     "homepage": "https://www.drupal.org/user/2947001"
@@ -1736,10 +1728,6 @@
             ],
             "authors": [
                 {
-                    "name": "RobLoach",
-                    "homepage": "https://www.drupal.org/user/61114"
-                },
-                {
                     "name": "elachlan",
                     "homepage": "https://www.drupal.org/user/1021502"
                 },
@@ -1754,6 +1742,10 @@
                 {
                     "name": "podarok",
                     "homepage": "https://www.drupal.org/user/116002"
+                },
+                {
+                    "name": "RobLoach",
+                    "homepage": "https://www.drupal.org/user/61114"
                 },
                 {
                     "name": "soxofaan",
@@ -2186,7 +2178,7 @@
             "extra": {
                 "drupal": {
                     "version": "4.0.0",
-                    "datestamp": "1656635481",
+                    "datestamp": "1659118616",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2352,20 +2344,20 @@
                     "role": "Maintainer"
                 },
                 {
-                    "name": "RenatoG",
-                    "homepage": "https://www.drupal.org/user/3326031"
-                },
-                {
-                    "name": "diamondsea",
-                    "homepage": "https://www.drupal.org/user/430714"
-                },
-                {
                     "name": "hmartens",
                     "homepage": "https://www.drupal.org/user/622826"
                 },
                 {
                     "name": "loopduplicate",
                     "homepage": "https://www.drupal.org/user/717290"
+                },
+                {
+                    "name": "Neslee Canil Pinto",
+                    "homepage": "https://www.drupal.org/user/3580850"
+                },
+                {
+                    "name": "RenatoG",
+                    "homepage": "https://www.drupal.org/user/3326031"
                 },
                 {
                     "name": "sonemonu",
@@ -2465,16 +2457,20 @@
             ],
             "authors": [
                 {
-                    "name": "Kopezaur",
-                    "homepage": "https://www.drupal.org/user/3580286"
-                },
-                {
                     "name": "cristiroma",
                     "homepage": "https://www.drupal.org/user/2267390"
                 },
                 {
+                    "name": "Kopezaur",
+                    "homepage": "https://www.drupal.org/user/3580286"
+                },
+                {
                     "name": "leontin",
                     "homepage": "https://www.drupal.org/user/3599349"
+                },
+                {
+                    "name": "paula_iuga",
+                    "homepage": "https://www.drupal.org/user/3724292"
                 },
                 {
                     "name": "stefan.butura",
@@ -2527,6 +2523,10 @@
                 {
                     "name": "jonsecret",
                     "homepage": "https://www.drupal.org/user/932520"
+                },
+                {
+                    "name": "stefan.butura",
+                    "homepage": "https://www.drupal.org/user/3535177"
                 }
             ],
             "description": "Theme with Bootstrap 5 css library",
@@ -2585,20 +2585,20 @@
                     "homepage": "https://www.drupal.org/node/2348769/committers"
                 },
                 {
-                    "name": "StryKaizer",
-                    "homepage": "https://www.drupal.org/user/462700"
-                },
-                {
-                    "name": "borisson_",
-                    "homepage": "https://www.drupal.org/user/2393360"
-                },
-                {
                     "name": "drunken monkey",
                     "homepage": "https://www.drupal.org/user/205582"
                 },
                 {
                     "name": "mkalkbrenner",
                     "homepage": "https://www.drupal.org/user/124705"
+                },
+                {
+                    "name": "Nick_vh",
+                    "homepage": "https://www.drupal.org/user/122682"
+                },
+                {
+                    "name": "StryKaizer",
+                    "homepage": "https://www.drupal.org/user/462700"
                 }
             ],
             "description": "The Facet module allows site builders to easily create and manage faceted search interfaces.",
@@ -2650,16 +2650,16 @@
                     "homepage": "https://www.drupal.org/user/647364"
                 },
                 {
-                    "name": "Stalski",
-                    "homepage": "https://www.drupal.org/user/322618"
-                },
-                {
                     "name": "jyve",
                     "homepage": "https://www.drupal.org/user/591438"
                 },
                 {
                     "name": "nils.destoop",
                     "homepage": "https://www.drupal.org/user/361625"
+                },
+                {
+                    "name": "Stalski",
+                    "homepage": "https://www.drupal.org/user/322618"
                 },
                 {
                     "name": "swentel",
@@ -2711,16 +2711,16 @@
             "authors": [
                 {
                     "name": "Jeff Geerling",
-                    "homepage": "https://www.drupal.org/user/213194",
+                    "homepage": "https://www.drupal.org/user/389011",
                     "email": "geerlingguy@mac.com"
+                },
+                {
+                    "name": "Manuel Garcia",
+                    "homepage": "https://www.drupal.org/user/213194"
                 },
                 {
                     "name": "TR",
                     "homepage": "https://www.drupal.org/user/202830"
-                },
-                {
-                    "name": "geerlingguy",
-                    "homepage": "https://www.drupal.org/user/389011"
                 },
                 {
                     "name": "vijaycs85",
@@ -2898,8 +2898,8 @@
                     "role": "Maintainer"
                 },
                 {
-                    "name": "gravelpot",
-                    "homepage": "https://www.drupal.org/user/748208"
+                    "name": "Jeff Cardwell",
+                    "homepage": "https://www.drupal.org/user/2913129"
                 },
                 {
                     "name": "lreynaga",
@@ -2908,6 +2908,10 @@
                 {
                     "name": "mark_fullmer",
                     "homepage": "https://www.drupal.org/user/2612816"
+                },
+                {
+                    "name": "mmarler",
+                    "homepage": "https://www.drupal.org/user/500192"
                 },
                 {
                     "name": "ricksta",
@@ -2920,6 +2924,10 @@
                 {
                     "name": "twfahey",
                     "homepage": "https://www.drupal.org/user/3403722"
+                },
+                {
+                    "name": "utexas",
+                    "homepage": "https://www.drupal.org/user/3716409"
                 }
             ],
             "description": "Manage which fields & layouts are available in Layout Builder",
@@ -3104,8 +3112,8 @@
                     "version": "2.0.3",
                     "datestamp": "1608021997",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Project has not opted into security advisory coverage!"
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -3186,12 +3194,12 @@
             ],
             "authors": [
                 {
-                    "name": "Jeff Cardwell",
-                    "homepage": "https://www.drupal.org/user/2913129"
-                },
-                {
                     "name": "gravelpot",
                     "homepage": "https://www.drupal.org/user/748208"
+                },
+                {
+                    "name": "Jeff Cardwell",
+                    "homepage": "https://www.drupal.org/user/2913129"
                 },
                 {
                     "name": "lreynaga",
@@ -3202,12 +3210,20 @@
                     "homepage": "https://www.drupal.org/user/2612816"
                 },
                 {
+                    "name": "mmarler",
+                    "homepage": "https://www.drupal.org/user/500192"
+                },
+                {
                     "name": "ricksta",
                     "homepage": "https://www.drupal.org/user/311042"
                 },
                 {
                     "name": "texas_tater",
                     "homepage": "https://www.drupal.org/user/753614"
+                },
+                {
+                    "name": "utexas",
+                    "homepage": "https://www.drupal.org/user/3716409"
                 }
             ],
             "description": "Display the Media Library with an administrative theme",
@@ -3765,16 +3781,16 @@
             ],
             "authors": [
                 {
-                    "name": "LukeLast",
-                    "homepage": "https://www.drupal.org/user/30151"
-                },
-                {
                     "name": "japerry",
                     "homepage": "https://www.drupal.org/user/45640"
                 },
                 {
                     "name": "josesanmartin",
                     "homepage": "https://www.drupal.org/user/72012"
+                },
+                {
+                    "name": "LukeLast",
+                    "homepage": "https://www.drupal.org/user/30151"
                 },
                 {
                     "name": "oadaeh",
@@ -4135,20 +4151,16 @@
             ],
             "authors": [
                 {
-                    "name": "Dave Reid",
-                    "homepage": "https://www.drupal.org/user/53892"
-                },
-                {
-                    "name": "RenatoG",
-                    "homepage": "https://www.drupal.org/user/3326031"
-                },
-                {
                     "name": "amateescu",
                     "homepage": "https://www.drupal.org/user/729614"
                 },
                 {
                     "name": "andrei.dincu",
                     "homepage": "https://www.drupal.org/user/2628879"
+                },
+                {
+                    "name": "Dave Reid",
+                    "homepage": "https://www.drupal.org/user/53892"
                 },
                 {
                     "name": "juampynr",
@@ -4161,6 +4173,10 @@
                 {
                     "name": "pifagor",
                     "homepage": "https://www.drupal.org/user/2375692"
+                },
+                {
+                    "name": "RenatoG",
+                    "homepage": "https://www.drupal.org/user/3326031"
                 },
                 {
                     "name": "tadityar",
