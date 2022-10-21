@@ -48,7 +48,7 @@ jobs:
           # database_dump_dir:  /var/www/config/recommended-project/sync
           check_config:         ${{ inputs.check_config }}
           sql_backup:           ${{ inputs.sql_backup }}
-          # artifacts_lifespan:   30
+          artifacts_lifespan:   30
 
       - name: 'Update the Drupal instance'
         id: release
