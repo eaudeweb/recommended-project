@@ -1,0 +1,13 @@
+uuid: b56ceaea-8c4f-4953-879c-5319cc748786
+langcode: en
+status: true
+dependencies:
+  config:
+    - key.key.authentication_key
+  module:
+    - real_aes
+id: aes_profile
+label: 'AES Profile'
+encryption_method: real_aes
+encryption_method_configuration: {  }
+encryption_key: authentication_key
