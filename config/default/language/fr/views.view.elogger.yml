@@ -1,0 +1,89 @@
+display:
+  default:
+    display_title: Principal
+    display_options:
+      fields:
+        log_message__value:
+          separator: ', '
+        module:
+          label: Module
+          separator: ', '
+        diff:
+          label: Diff
+          separator: ', '
+      pager:
+        options:
+          tags:
+            next: ››
+            previous: ‹‹
+            first: '« Premier'
+            last: 'Dernier »'
+          expose:
+            items_per_page_label: 'Éléments par page'
+            items_per_page_options_all_label: '- Tout -'
+            offset_label: Décalage
+      exposed_form:
+        options:
+          submit_button: Filtrer
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
+          sort_asc_label: Asc
+          sort_desc_label: Desc
+      filters:
+        created:
+          expose:
+            label: 'Ajouté le'
+        uid:
+          expose:
+            label: Utilisateur
+        module:
+          expose:
+            label: Module
+          group_info:
+            label: Module
+        event_type:
+          expose:
+            label: "Type de l'Évènement"
+  data_export_1:
+    display_title: 'Exportation de données'
+    display_options:
+      fields:
+        id:
+          label: '#'
+          separator: ', '
+        log_message__value:
+          separator: ', '
+        module:
+          label: Module
+          separator: ', '
+        user_id:
+          label: Utilisateur
+          separator: ', '
+        ip:
+          label: IP
+          separator: ', '
+        user_agent:
+          label: 'User Agent'
+          separator: ', '
+  elogs:
+    display_options:
+      fields:
+        id:
+          label: '#'
+          separator: ', '
+        log_message__value:
+          separator: ', '
+        module:
+          label: Module
+          separator: ', '
+        diff:
+          label: Diff
+          separator: ', '
+        view_elog:
+          text: voir
+        ip:
+          label: IP
+          separator: ', '
+        user_agent:
+          label: 'User Agent'
+          separator: ', '

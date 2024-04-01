@@ -26,6 +26,7 @@ display:
           action_title: 'С выделенным'
         redirect_source__path:
           label: От
+          separator: ', '
         created:
           label: Создано
       filters:
@@ -54,7 +55,7 @@ display:
               6:
                 title: '305 Использовать Прокси'
               7:
-                title: '307 - Временно перемещено'
+                title: '307 Временно перемещено'
         language:
           expose:
             label: 'Язык оригинала'
