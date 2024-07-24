@@ -41,6 +41,7 @@ module:
   edw_blocks: 0
   edw_healthcheck: 0
   edw_modules: 0
+  elogger: 0
   encrypt: 0
   environment_indicator: 0
   extlink: 0
