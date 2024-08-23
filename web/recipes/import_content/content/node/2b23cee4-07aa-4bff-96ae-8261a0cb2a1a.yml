@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2b23cee4-07aa-4bff-96ae-8261a0cb2a1a
+  bundle: news
+  default_langcode: en
+  depends:
+    1d09607b-c4da-4c22-8380-a30605e5155e: media
+    74659fb9-babc-4934-96f9-a4b24074cd15: media
+    7a9dc1ce-ac02-45ee-b3d8-d49f7e4747bc: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Global Markets React to Sudden Interest Rate Hike'
+  created:
+    -
+      value: 1724410192
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /news/global-markets-react-sudden-interest-rate-hike
+      langcode: und
+      pathauto: 1
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: '<p>Global financial markets experienced significant volatility today following an unexpected interest rate hike by the Federal Reserve. The increase, aimed at curbing inflation, has caused fluctuations in stock markets worldwide, with major indices dropping sharply. Analysts warn of potential long-term impacts on economic growth as investors adjust to the new economic landscape.</p>'
+      format: full_html
+      summary: ''
+  field_banner_image:
+    -
+      entity: 1d09607b-c4da-4c22-8380-a30605e5155e
+  field_banner_text:
+    -
+      value: '<p>Sudden increase in stock prices</p>'
+      format: full_html
+  field_image:
+    -
+      entity: 74659fb9-babc-4934-96f9-a4b24074cd15
+  field_news_type:
+    -
+      entity: 7a9dc1ce-ac02-45ee-b3d8-d49f7e4747bc

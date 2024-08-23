@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 8040b819-ffbb-4165-bbf4-5bf285722420
+  bundle: image
+  default_langcode: en
+  depends:
+    844aba9c-31c9-4ced-a1f4-b5e19570b222: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Joe biden.jpg'
+  created:
+    -
+      value: 1724410267
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: 844aba9c-31c9-4ced-a1f4-b5e19570b222
+      alt: 'Joe Biden'
+      title: ''
+      width: 1480
+      height: 833
