@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 74659fb9-babc-4934-96f9-a4b24074cd15
+  bundle: image
+  default_langcode: en
+  depends:
+    2c52de32-181d-45f7-b417-f2959e26ea0b: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Graph for Global Markets React to Sudden Interest Rate Hike.jpg'
+  created:
+    -
+      value: 1724410093
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: 2c52de32-181d-45f7-b417-f2959e26ea0b
+      alt: 'Global Markets React to Sudden Interest Rate Hike'
+      title: ''
+      width: 344
+      height: 205

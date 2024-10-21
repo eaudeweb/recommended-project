@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 844aba9c-31c9-4ced-a1f4-b5e19570b222
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gettyimages-2148203597.jpg
+  uri:
+    -
+      value: 'public://2024-08/gettyimages-2148203597_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 67653
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1724410267

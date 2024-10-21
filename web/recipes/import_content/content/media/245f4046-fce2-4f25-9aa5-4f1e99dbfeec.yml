@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 245f4046-fce2-4f25-9aa5-4f1e99dbfeec
+  bundle: image
+  default_langcode: en
+  depends:
+    a755fa9d-b210-4d5f-b022-085c825d61a9: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: earthquake.jpg
+  created:
+    -
+      value: 1724410360
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: a755fa9d-b210-4d5f-b022-085c825d61a9
+      alt: Earthquake
+      title: ''
+      width: 480
+      height: 250

@@ -1,0 +1,5 @@
+name: 'import_content'
+description: "Imports Links Menu, News, Pages and News type"
+type: 'Content type'
+content:
+  

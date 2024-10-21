@@ -1,0 +1,60 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 332e42ac-8d67-429c-9b8b-ae754a533d57
+  bundle: news
+  default_langcode: en
+  depends:
+    8040b819-ffbb-4165-bbf4-5bf285722420: media
+    3bfb2a0c-fbed-4c6f-9395-fcc802df83a4: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'President Announces Major Climate Initiative'
+  created:
+    -
+      value: 1724410295
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /news/president-announces-major-climate-initiative
+      langcode: und
+      pathauto: 1
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: "<p>In a landmark speech today, the President unveiled an ambitious climate initiative aimed at reducing carbon emissions by 50% over the next decade. The plan includes significant investments in renewable energy, stricter regulations on industrial emissions, and incentives for green technology development. The announcement marks a major step in the administration's environmental agenda.</p><ul><li>The first reason</li><li>The second reason</li></ul>"
+      format: full_html
+      summary: ''
+  field_banner_text:
+    -
+      value: '<p>Joe Biden speaks about enviroment</p>'
+      format: full_html
+  field_image:
+    -
+      entity: 8040b819-ffbb-4165-bbf4-5bf285722420
+  field_news_type:
+    -
+      entity: 3bfb2a0c-fbed-4c6f-9395-fcc802df83a4

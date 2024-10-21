@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: dc5363b2-7d40-4167-8990-57a14b89a3f5
+  bundle: news_types
+  default_langcode: en
+  depends:
+    7a9dc1ce-ac02-45ee-b3d8-d49f7e4747bc: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Real Estate'
+  description:
+    -
+      value: '<p>News about the housing market, real estate trends, and property investments.</p>'
+      format: full_html
+  weight:
+    -
+      value: 10
+  parent:
+    -
+      entity: 7a9dc1ce-ac02-45ee-b3d8-d49f7e4747bc
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  content_translation_uid:
+    -
+      target_id: 1
+  content_translation_created:
+    -
+      value: 1724409878

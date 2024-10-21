@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a599c1c2-289d-45b8-ab16-1768d7ea0d7d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: group-interview.jpg
+  uri:
+    -
+      value: 'public://2024-08/group-interview.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 679285
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1724410498

@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0b504602-4547-4407-a96e-1bbb4a2830df
+  bundle: news
+  default_langcode: en
+  depends:
+    245f4046-fce2-4f25-9aa5-4f1e99dbfeec: media
+    9af85122-6006-4ad3-be38-75c50e353a02: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Emergency Declared After Earthquake Hits Coastal City'
+  created:
+    -
+      value: 1724410381
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /news/emergency-declared-after-earthquake-hits-coastal-city
+      langcode: und
+      pathauto: 1
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: '<p>A powerful earthquake struck the coastal city of San Mariana early this morning, causing widespread damage and prompting authorities to declare a state of emergency. Rescue teams are currently working to locate survivors amidst the rubble, with thousands feared trapped. The quake, measured at a magnitude of 7.8, has also triggered tsunami warnings along the coast.</p>'
+      format: full_html
+      summary: ''
+  field_banner_image:
+    -
+      entity: 245f4046-fce2-4f25-9aa5-4f1e99dbfeec
+  field_news_type:
+    -
+      entity: 9af85122-6006-4ad3-be38-75c50e353a02

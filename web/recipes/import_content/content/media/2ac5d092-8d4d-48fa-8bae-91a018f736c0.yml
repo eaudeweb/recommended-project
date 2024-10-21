@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 2ac5d092-8d4d-48fa-8bae-91a018f736c0
+  bundle: image
+  default_langcode: en
+  depends:
+    a599c1c2-289d-45b8-ab16-1768d7ea0d7d: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: group-interview.jpg
+  created:
+    -
+      value: 1724410498
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: a599c1c2-289d-45b8-ab16-1768d7ea0d7d
+      alt: group-interview
+      title: ''
+      width: 1000
+      height: 667

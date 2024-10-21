@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2c52de32-181d-45f7-b417-f2959e26ea0b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 1-s2.0-S2405844023029651-gr1.jpg
+  uri:
+    -
+      value: 'public://2024-08/1-s2.0-S2405844023029651-gr1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 94669
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1724410093
