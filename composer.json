@@ -249,6 +249,14 @@
         "post-update-cmd": [
             "@remove-git-folders"
         ],
-        "post-drupal-scaffold-cmd": []
+        "post-drupal-scaffold-cmd": [],
+        "theme-build": [
+            "Composer\\Config::disableProcessTimeout",
+            "./compile-theme.sh"
+        ],
+        "theme-watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "cd web/themes/custom/frontend/ && npm run watch"
+        ]
     }
 }
