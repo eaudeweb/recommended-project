@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fe5f9c05-5e6c-4c6d-a258-31105ca8aa28
+  bundle: page
+  default_langcode: en
+  depends:
+    2ac5d092-8d4d-48fa-8bae-91a018f736c0: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'About Our Company'
+  created:
+    -
+      value: 1724410509
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /about-our-company
+      langcode: und
+      pathauto: 1
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: '<p>Founded in 1995, our company has grown from a small startup to a leading provider of innovative technology solutions. With a focus on customer satisfaction and cutting-edge products, we have built a reputation for excellence in the industry. Our mission is to empower businesses and individuals through technology, driving progress and delivering value to our clients around the world.</p>'
+      format: full_html
+      summary: ''
+  field_banner_image:
+    -
+      entity: 2ac5d092-8d4d-48fa-8bae-91a018f736c0

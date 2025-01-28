@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a755fa9d-b210-4d5f-b022-085c825d61a9
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: topshots-topshot-japan-quake-080303_3774507_20240104165554.jpg
+  uri:
+    -
+      value: 'public://2024-08/topshots-topshot-japan-quake-080303_3774507_20240104165554.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 31111
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1724410360

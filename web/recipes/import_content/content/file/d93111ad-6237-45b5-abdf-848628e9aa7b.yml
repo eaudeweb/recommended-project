@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d93111ad-6237-45b5-abdf-848628e9aa7b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 290283-803x490.jpg
+  uri:
+    -
+      value: 'public://2024-08/290283-803x490.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 84613
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1724410147
